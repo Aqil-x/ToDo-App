@@ -1,4 +1,4 @@
-# Java To-Do Application
+# Python To-Do Application
 A simple task management application developed in Java that allows users to create, manage, and organise their daily tasks.
 This project was developed to strengthen my understanding of Java programming, object-oriented programming, application logic, and user interaction.
 

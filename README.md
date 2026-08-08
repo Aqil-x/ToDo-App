@@ -1,26 +1,47 @@
-# ToDo-App
-This is my simlpe to do app using python.
-A simple command-line To-Do List application written in Python.
-It allows users to add tasks, view tasks, remove tasks, and store all tasks in an external text file.
-This project is beginner-friendly and demonstrates file handling and list management in Python.
+# Java To-Do Application
+A simple task management application developed in Java that allows users to create, manage, and organise their daily tasks.
+This project was developed to strengthen my understanding of Java programming, object-oriented programming, application logic, and user interaction.
 
 Features
-Add new tasks
-Remove existing tasks
-Display all tasks with numbering
-Tasks are saved in an external file
-Tasks load automatically when program starts
-Clean and easy-to-understand structure
+Create new tasks
+View existing tasks
+Mark tasks as completed
+Remove tasks
+Manage multiple tasks within the application
+Simple and easy-to-use interface
 
-ow It Works
-All tasks are stored in an external text file (tasks.txt)
-When the program starts, it loads tasks from the file
-Tasks can be added, removed, or viewed
-When a change is made, it is saved back to the file
+Technologies Used
+Java – Core application development
+Object-Oriented Programming (OOP) – Application structure and code organisation
+Git & GitHub – Version control and project management
 
 What I Learned
-How to read and write to external files in Python
-How to store tasks inside a list
-String manipulation (strip())
-Using loops and conditionals
-Basic program design and menu systems
+This project helped me develop my understanding of:
+
+Java programming fundamentals
+Object-oriented programming
+Variables, methods, classes, and objects
+Conditional statements and loops
+Collections and data handling
+User input and application flow
+Writing maintainable and organised code
+Using Git and GitHub for version control
+Future Improvements
+
+Potential improvements include:
+
+Add task priorities
+Add due dates and deadlines
+Add task categories
+Add persistent database/file storage
+Improve the user interface
+Add automated testing
+Add search and filtering functionality
+
+Author
+Aqil Ahmed
+
+BSc (Hons) Computer Science
+University of Salford
+
+GitHub: Aqil-x
